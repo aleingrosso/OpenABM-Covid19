@@ -9,6 +9,7 @@ examples/results/*.csv
 # Python testing files
 __pycache__
 .mypy_cache/
+.ipynb_checkpoints
 
 # Eclipse-related files
 .project
